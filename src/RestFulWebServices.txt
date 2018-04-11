@@ -1,0 +1,10 @@
+how do other people present data on facebool/twitte like games, memes etc?
+Its through the webservice calls only dude. just see https://developer.twitter.com/.
+What is the protocol? - none. unlike soap, whre soap is protocol?
+What http method to be used? - none. can use all.
+what is the api standard(service definition.)?- none unlike wsdl in soap. Even WADL is there, none use it as such?
+REST-Representational state transfer.
+So, Rest has no  rules. So, is there no rule? Can your grandmother build restful webservice? well, there are only guidelines to follow.
+Need to learn guidelines and follow and make make the restful webservice as restful a possible. Thats it...!!!
+
+HTTP : what is the hyper text? - it is the text that has logical links to other text. These links are called hyper links. Popular way to write hyper text is in HTML.
